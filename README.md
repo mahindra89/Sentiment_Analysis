@@ -30,10 +30,10 @@ Main file path: app.py
 
 ## Important Model Note
 
-The original `App.py` loaded a fine-tuned BERT model from a local Windows path:
+The original app loaded a fine-tuned BERT model from a local machine path:
 
 ```text
-C:\Users\Tarek Hesham\Sent_model
+models/sent_model
 ```
 
 Those trained model/tokenizer artifacts are not included in this repository, so

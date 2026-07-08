@@ -3,7 +3,7 @@ import streamlit as st
 import tensorflow as tf
 from transformers import BertTokenizer, TFBertForSequenceClassification, BertConfig
 # Define the path to your tokenizer and model
-path = r'C:\Users\Tarek Hesham\Sent_model'
+path = r'models\sent_model'
 
 #setting configuration
 config = BertConfig.from_pretrained('bert-base-uncased', num_labels=3)
