@@ -15,6 +15,8 @@ visitors:
 
 ## Streamlit App
 
+[Open the live Streamlit app](https://project-2-5yqkhasoopvxcd9khat3jt.streamlit.app/)
+
 Run locally:
 
 ```bash
